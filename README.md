@@ -12,7 +12,7 @@ A Healthcare company identified that customers are curious about diet and nutrit
 **** Data: **** 
 Proprietary data of this Healthcare company contains information such as Caloric Value, Dietary fiber, Protein, Vitamins, Minerals, Nutrition density on thousands of food items consumed world-wide.
 
-**** Features: **** \n
+**** Features: **** 
 Healthcare company has volumes of nutrition data (csv files).
 This code reads the csv files and stores them in SQL DB.
 Customer enters the question regarding nutritional value for food items in the console prompt.
